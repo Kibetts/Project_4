@@ -17,3 +17,7 @@ body{
     margin-left: 150px;
     margin-bottom: -30px;
 }
+#name{
+    font-size: 3;
+    color: beige;
+}
