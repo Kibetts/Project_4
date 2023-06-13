@@ -83,3 +83,9 @@ footer{
 label{
     color: beige;
 }
+#message{
+    font-size: 45px;
+    margin-left: 250px;
+    color: orange;
+    margin-bottom: 10px;
+}
