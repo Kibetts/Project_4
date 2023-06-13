@@ -3,3 +3,11 @@ body{
     background-image: url('./assets/background\ image.jpg');
     background-size: cover;
 }
+#hello{
+    font-size: 50px;
+    color: beige;
+    margin-top:250px ;
+    margin-left:150px ;
+    margin-bottom: -30px;
+    
+}
