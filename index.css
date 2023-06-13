@@ -29,3 +29,12 @@ p{
    
 
 }
+#navigation nav ul{
+    display: flex;
+    justify-content: end;
+    margin: 30px;
+    background-color: orange;
+    border-radius: 5px;
+   
+    
+}
