@@ -70,3 +70,16 @@ footer{
     margin-left: 250px;
 
 }
+#intro{
+    margin-left: 250px;
+    font-size: 20px;
+    border: 2px solid orange;
+    padding: 8px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px orange;
+    width: 50%;
+}
+
+label{
+    color: beige;
+}
